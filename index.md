@@ -4,6 +4,6 @@ I am a Ph.D. student in Physics at the University of Houston, with a focus on th
 
 Personal e-mail:  gvphysik@gmail.com
 
-[Linkedin](https://www.linkedin.com/in/gvmphysics/)
+Linkedin: [Click Here!](https://www.linkedin.com/in/gvmphysics/)
 
 ![Gustavo](/Gustavo.JPG)
