@@ -1,4 +1,4 @@
-| [Home](/index.md) | [Curriculum Vitae](/CurriculumVitae.md) |
+| [Home](/index.md) | [Curriculum Vitae](/CurriculumVitae.md) | [Research](/Research.md) |
 
 **Curriculum Vitae**<br />
 [Click here to see the complete CV](https://gcvaldivia.github.io/Curriculum_Vitae.pdf){:target="_blank"}
